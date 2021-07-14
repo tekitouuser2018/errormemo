@@ -7,3 +7,15 @@ https://www.fixes.pub/program/325468.html
 
 This ERROR message may doesn't show actual reason for ERROR.
 And you need to delete Spring and execute rails command , so actual ERROR message shows.
+
+
+
+## rails db:migrate, db:setup
+
+IF
+rails aborted!
+ActiveRecord::RecordInvalid: バリデーションに失敗しました
+=>
+rails db:migrate:reset
+
+https://teratail.com/questions/178254
