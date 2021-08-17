@@ -29,3 +29,11 @@ https://teratail.com/questions/178254
 https://qiita.com/masatwork/items/1b5d190cc76f5eeffbb7
 
 https://qiita.com/GalaxyNeko/items/630ac869d3bbbe93034b
+
+## ActionController::InvalidAuthenticityToken
+
+> protect_from_forgery
+
+を追記
+
+https://qiita.com/_ayk_study/items/88269643c675fd4ca975
