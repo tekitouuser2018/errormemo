@@ -19,3 +19,13 @@ ActiveRecord::RecordInvalid: バリデーションに失敗しました
 rails db:migrate:reset
 
 https://teratail.com/questions/178254
+
+## Webpacker::Manifest::MissingEntryError
+
+> brew install yarn
+
+で解消した
+
+https://qiita.com/masatwork/items/1b5d190cc76f5eeffbb7
+
+https://qiita.com/GalaxyNeko/items/630ac869d3bbbe93034b
