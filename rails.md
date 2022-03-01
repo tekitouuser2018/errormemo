@@ -37,3 +37,10 @@ https://qiita.com/GalaxyNeko/items/630ac869d3bbbe93034b
 を追記
 
 https://qiita.com/_ayk_study/items/88269643c675fd4ca975
+
+## `require': cannot load such file -- /app/vendor/bundle/ruby/2.7.0/gems/~ (LoadError)
+
+> bundle clean
+> 
+> bundle install
+
